@@ -6,3 +6,11 @@
 /Users/Guest/Desktop/Homie/bin/Debug/netcoreapp1.1/Homie.pdb
 /Users/Guest/Desktop/Homie/obj/Debug/netcoreapp1.1/Homie.dll
 /Users/Guest/Desktop/Homie/obj/Debug/netcoreapp1.1/Homie.pdb
+/Users/Guest/Desktop/homie-simulator/bin/Debug/netcoreapp1.1/Homie.deps.json
+/Users/Guest/Desktop/homie-simulator/bin/Debug/netcoreapp1.1/Homie.runtimeconfig.json
+/Users/Guest/Desktop/homie-simulator/bin/Debug/netcoreapp1.1/Homie.runtimeconfig.dev.json
+/Users/Guest/Desktop/homie-simulator/bin/Debug/netcoreapp1.1/Homie.dll
+/Users/Guest/Desktop/homie-simulator/bin/Debug/netcoreapp1.1/Homie.pdb
+/Users/Guest/Desktop/homie-simulator/obj/Debug/netcoreapp1.1/Homie.AssemblyInfo.cs
+/Users/Guest/Desktop/homie-simulator/obj/Debug/netcoreapp1.1/Homie.dll
+/Users/Guest/Desktop/homie-simulator/obj/Debug/netcoreapp1.1/Homie.pdb
