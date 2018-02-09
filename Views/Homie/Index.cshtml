@@ -13,27 +13,33 @@
       </div>
       <div id=homieStats>
         <h3>Rest</h3>
+        <h3> @Model.GetRest() </h3>
         <br>
         <br>
-        <br>
-        <br>
+
         <h3>Hunger</h3>
+        <h3> @Model.GetHunger() </h3>
         <br>
         <br>
-        <br>
-        <br>
+
         <h3>Joy</h3>
+        <h3> @Model.GetJoy() </h3>
       </div>
       <img src="~/img/lil-homie.jpg" id="lilHomiePic" alt="picture of lil-homie">
-
+      </div>
       <div class="container" id="lilHomieContainer">
         <h1 id="lilHomieText">LIL' HOMIE</h1>
       </div>
-      </div>
-    <div class="container" id="buttonContainer">
-      <button class="btn" type="submit">SLEEP</button>
-      <button class="btn" type="submit">FEED</button>
-      <button class="btn" type="submit">PLAY</button>
+      <div class="container" id="buttonContainer">
+        <form="" action="/" method="post">
+        <button class="btn" id="sleepButton"type="submit"> SLEEP</button>
+        </form>
+        <form="" action="/" method="post">
+        <button class="btn" id="feedButton"type="submit" <a href="/"> FEED</button>
+        </form>
+        <form="" action="/" method="post">
+        <button class="btn" id="playButton"type="submit" <a href="/"> PLAY</button>
+        </form>
     </div>
   </body>
 </html>
